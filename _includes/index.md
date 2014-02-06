@@ -8,7 +8,7 @@ I'm a developer at <a href='http://www.kahua.com/' target='_blank'>Kahua</a> and
 I'm available for contract and freelance work and would love to hear about your next project. Send me an email or find me on any of the sites below. 
 
 * [michael.sandt@gmail.com](mailto:michael.sandt@gmail.com)
-* [Twitter](http://twitter.com/mike_sandt)
+* [Twitter](http://twitter.com/mikesandt)
 * [GitHub](http://github.com/msandt3)
 * [LinkedIn](http://www.linkedin.com/in/mikesandt/)
 
