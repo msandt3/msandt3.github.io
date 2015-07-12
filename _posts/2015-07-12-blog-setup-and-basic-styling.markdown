@@ -76,7 +76,7 @@ Boom! And now it looks so much better.
 
 # Going Forward
 
-It was a fun exercise getting the new site up and running but there were several pitfalls in the process that I thought I could adress going forward. First, I'd like to get SASS in the pipeline somewhere. Jekyll and Github Pages don't support SASS by default so I'd probably have to include that with a task runner like Gulp or Grunt. Second, registering my my own domain name and liking the Github pages served site to there. This would require some CNAME manipulation but I feel as though it would be a worthwhile effort.
+It was a fun exercise getting the new site up and running but there were several pitfalls in the process that I thought I could adress going forward. First, I'd like to get SASS in the pipeline somewhere. Jekyll actually supports SASS by default and nesting selectors was something I really missed, even for the minimal amount of CSS I touched in getting this project up and running.
 
 
 [old-site]: /assets/images/posts/old-personal-site.png
