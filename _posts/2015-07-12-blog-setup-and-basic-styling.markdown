@@ -9,7 +9,7 @@ It's been a while since I took a look at my personal site, and even longer since
 
 ![Old Personal Site][old-site]
 
-This worked well for providing a bio and contact information but fell severly short when it came to providing blog functionality. As I moved forward in my career as a developer I realized that I not only wanted to start blogging, but needed to leverage it as a tool to help create my own personal brand.
+This worked well for providing a bio and contact information but fell severely short when it came to providing blog functionality. As I moved forward in my career as a developer I realized that I not only wanted to start blogging, but needed to leverage it as a tool to help create my own personal brand.
 
 I realized I didn't want to completely throw everything from my old site out. I had already chosen an extendable static site framework with [Jekyll][jekyll] which functioned seamlessly with Github's static pages hosting. I felt the easiest choice was to pick a new theme that provided a more conventional UI and a better blogging mechanism.
 
